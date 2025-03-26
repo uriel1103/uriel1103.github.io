@@ -39,7 +39,6 @@ round-avatar: true
 # 사용하려면 반대로 # 을 지워주세요.
 social-network-links:
   twitter: uriel1104
-  misskey: buttersc.one/@uriel1103
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
@@ -55,7 +54,7 @@ share-links-active:
 
 # 웹사이트 링크를 사이트 하단에 어떻게 표시할지 설정합니다.
 # 필요 없다면 아래 문장을 한 줄 지워주세요.
-url-pretty: "Yourname.com"
+url-pretty: "uriel1103.com"
 
 # --------- 이 아래로는 관련 지식이 없다면 절대 변경하지 마세요. -----------
 
