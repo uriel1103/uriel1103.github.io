@@ -5,10 +5,10 @@
 # --- 필수 설정--- #
 
 # 웹사이트 이름
-title: 제목
+title: TRPG 로그 백업
 
 # 사이트에 표시 될 닉네임
-author: 이름 
+author: 제이르 
 
 # --- 상단에 표시될 메뉴 이름들 --- #
 
@@ -38,29 +38,8 @@ round-avatar: true
 # 사용하지 않으려면 코드 맨 앞쪽에 '#' 을 붙이고 띄어쓰기 해주세요.
 # 사용하려면 반대로 # 을 지워주세요.
 social-network-links:
-  email: "someone@example.com"
-#  facebook: deanattali
-#  github: daattali
-#  twitter: daattali
-#  patreon: DeanAttali
-#  youtube: c/daattali
-#  medium: yourname
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  twitter: uriel1104
+  misskey: buttersc.one/@uriel1103
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
