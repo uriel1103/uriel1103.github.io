@@ -14,9 +14,9 @@ author: 제이르
 
 navbar-links:
   About: "aboutme" # 이렇게 마크다운 문서를 보여줄 수도 있고 (이 때 .md는 뺀 제목만 씁니다)
-  Postype: "https://postype.com/" # 이렇게 외부 링크로 이어지게 할 수도 있습니다.
-  Links: 
-    - Learn markdown: "https://www.markdowntutorial.com/" # 이렇게 드롭다운 메뉴를 만들 수도 있습니다.
+  Tistory:
+      - Community: "https://1ayby.tistory.com/"
+      - TRPG: "https://my-petrichor.tistory.com/"
 
 # --- 로고 --- #
 
@@ -30,31 +30,6 @@ round-avatar: true
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
 #title-img: /path/to/image
-
-
-# --- 하단 SNS 링크 --- #
-
-# 하단에 보여질 SNS 링크 아이콘입니다. 
-# 사용하지 않으려면 코드 맨 앞쪽에 '#' 을 붙이고 띄어쓰기 해주세요.
-# 사용하려면 반대로 # 을 지워주세요.
-social-network-links:
-  twitter: uriel1104
-
-# If you want to show a link to an RSS in the footer, add the site description here.
-# If you don't want to show an RSS link, remove the following line.
-
-# --- 일반 설정 --- #
-
-# 포스트 하단에 활성화할 SNS 공유 아이콘입니다. 사용하지 않으려면 false 로 지정해주세요.
-share-links-active:
-  twitter: true
-  facebook: false
-  linkedin: false
-  vk: false
-
-# 웹사이트 링크를 사이트 하단에 어떻게 표시할지 설정합니다.
-# 필요 없다면 아래 문장을 한 줄 지워주세요.
-url-pretty: "uriel1103.com"
 
 # --------- 이 아래로는 관련 지식이 없다면 절대 변경하지 마세요. -----------
 
